@@ -44,6 +44,4 @@ server.listen(PORT, () => {
 });
 
 
-// New changes in this new-features to check if git diff works 
-
-// Adding new features
+Adding new features
