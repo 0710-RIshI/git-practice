@@ -61,4 +61,6 @@ const ReadFile = async () => {
     }
 }
 
+console.log("Before ReadFile call")
+
 ReadFile();
