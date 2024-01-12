@@ -45,3 +45,6 @@ server.listen(PORT, () => {
 
 
 Adding new features
+
+
+Adding stash edit
